@@ -11,8 +11,6 @@ We believe this is a very powerful technique for building rich clientside websit
 * Can connect to and use a 'backend as a service' if desired
 * Can be trivially upgraded to a dynamic node application if required in the future
 
-We wrote up our rationale in more detail on our [blog](http://blog.percolatestudio.com/engineering/architecting-better-landing-pages/).
-
 ## Usage
 
 First install the dependencies including grunt if you don't have it yet
