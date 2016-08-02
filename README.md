@@ -97,4 +97,4 @@ The code in this project is copyright Percolate Studio Ltd., and licensed under 
 
 Webfonts are copyright and subject to licensing agreements with their respective owners. They ARE NOT available for re-use. Please license them with their owners.
 
-Maintained by Zoltan Olah (@zol).
+Maintained by Abdi Farah.
