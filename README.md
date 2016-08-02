@@ -1,6 +1,6 @@
 ## Description
 
-This is the code that runs Percolate Studio's website at http://percolatestudio.com . The site is a Single Page App built in React. It can be run as a node application with server side rendering, from a set of static pages that have been rendered to disk *or* as a pure client-side app. We run in production as a static site deployed to S3.
+This is the code that runs Percolate Studio's website at https://percolatestudio.com . The site is a Single Page App built in React. It can be run as a node application with server side rendering, from a set of static pages that have been rendered to disk *or* as a pure client-side app. We run in production as a static site deployed to S3.
 
 We believe this is a very powerful technique for building rich clientside websites that are:
 
@@ -93,7 +93,7 @@ $ grunt deploy
 
 ### License & Copyright
 
-The code in this project is copyright Percolate Studio Ltd., and licensed under the MIT license (see attached license file LICENSE.txt). All images and textual content are copyright Percolate Studio Ltd. or the respective copyright holder and ARE NOT available to be re-used.
+The code in this project is copyright Percolate Studio., and licensed under the MIT license (see attached license file LICENSE.txt). All images and textual content are copyright Percolate Studio Ltd. or the respective copyright holder and ARE NOT available to be re-used.
 
 Webfonts are copyright and subject to licensing agreements with their respective owners. They ARE NOT available for re-use. Please license them with their owners.
 
